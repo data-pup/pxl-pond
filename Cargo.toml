@@ -1,0 +1,6 @@
+[package]
+name = "pxl-pond"
+version = "0.1.0"
+authors = ["data-pup <kevinmartinucr@gmail.com>"]
+
+[dependencies]

@@ -5,3 +5,4 @@ authors = ["data-pup <kevinmartinucr@gmail.com>"]
 
 [dependencies]
 pxl = "0.0.7"
+itertools = "0.7.8"
